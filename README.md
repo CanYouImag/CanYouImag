@@ -64,7 +64,7 @@
 欢迎各位前往贫道的洞府做客：
 
 <div align="center">
-  <a href="[你的链接地址](https://canyouimag.github.io/)" style="text-decoration: none; display: inline-flex; align-items: center;">
+  <a href="https://canyouimag.github.io/" style="text-decoration: none; display: inline-flex; align-items: center;">
     <span style="font-size: 24px; margin-right: 8px;">🌐</span>
     <span style="color: #3b82f6; text-decoration: underline; font-weight: bold; font-family: sans-serif;">在线访问</span>
   </a>
@@ -75,16 +75,16 @@
 # 📫 联系我
 
 <div align="center">
-  <a href="[三清道人的小窝](https://canyouimag.github.io/)" style="text-decoration: none; display: inline-block; margin: 5px; padding: 8px 16px; border-radius: 4px; background-color: #3b3b3b; color: white; font-weight: bold;">
+  <a href="https://canyouimag.github.io/" style="text-decoration: none; display: inline-block; margin: 5px; padding: 8px 16px; border-radius: 4px; background-color: #3b3b3b; color: white; font-weight: bold;">
     📓 博客
   </a>
-  <a href="[三清道人的小窝](https://canyouimag.github.io/)" style="text-decoration: none; display: inline-block; margin: 5px; padding: 8px 16px; border-radius: 4px; background-color: #007bff; color: white; font-weight: bold;">
+  <a href="https://canyouimag.github.io/" style="text-decoration: none; display: inline-block; margin: 5px; padding: 8px 16px; border-radius: 4px; background-color: #007bff; color: white; font-weight: bold;">
     三清道人的小窝
   </a>
-  <a href="[三清道人的Github](https://github.com/CanYouImag)" style="text-decoration: none; display: inline-block; margin: 5px; padding: 8px 16px; border-radius: 4px; background-color: #24292e; color: white; font-weight: bold;">
+  <a href="https://github.com/CanYouImag" style="text-decoration: none; display: inline-block; margin: 5px; padding: 8px 16px; border-radius: 4px; background-color: #24292e; color: white; font-weight: bold;">
     🐙 GITHUB
   </a>
-  <a href="[三清道人的Github](https://github.com/CanYouImag)" style="text-decoration: none; display: inline-block; margin: 5px; padding: 8px 16px; border-radius: 4px; background-color: #1da1f2; color: white; font-weight: bold;">
+  <a href="https://github.com/CanYouImag" style="text-decoration: none; display: inline-block; margin: 5px; padding: 8px 16px; border-radius: 4px; background-color: #1da1f2; color: white; font-weight: bold;">
     @CanYouImag
   </a>
 </div>
