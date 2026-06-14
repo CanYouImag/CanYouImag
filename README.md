@@ -28,6 +28,9 @@
 
 ---
 
+# 📊 Github活跃度
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CanYouImag)
 
 
 <!---
