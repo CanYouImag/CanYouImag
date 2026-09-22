@@ -33,7 +33,7 @@
 <p align="center">🔥 仓库详情</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CanYouImag" alt="GitHub Stats" />
+  <img src="https://ghchart.rshah.org/4db6ac/CanYouImag" alt="CanYouImag 的 GitHub 贡献图" width="850" height="133" />
 </p>
 
 ---
